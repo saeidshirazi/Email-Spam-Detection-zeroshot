@@ -49,6 +49,13 @@ This notebook covers:
 - ✅ Reduced dependency on labeled data  
 - ✅ Adaptable to dynamic spam environments  
 - ✅ Scalable and lightweight approach for real-world applications  
+## 📄 Project Report
+
+You can read the full technical report of this project on arXiv:
+
+**🔗 [Advancing Email Spam Detection: Leveraging
+Zero-Shot Learning and Large Language Models
+](https://arxiv.org/pdf/2505.02362)**
 
 ## 🛠️ Setup Instructions
 
